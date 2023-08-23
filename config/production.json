@@ -1,7 +1,1 @@
-{
-    "mongoURI": "mongodb://waqasahmed:waqasahmed@ac-cbjylwz-shard-00-00.eeubf6n.mongodb.net:27017,ac-cbjylwz-shard-00-01.eeubf6n.mongodb.net:27017,ac-cbjylwz-shard-00-02.eeubf6n.mongodb.net:27017/?ssl=true&replicaSet=atlas-lx39t5-shard-0&authSource=admin&retryWrites=true&w=majority",
-    "jwtSecret": "mySecretToken",
-    "githubClientId": "ddc6eff2bfb0c447fe18",
-    "githubSecret": "30164e765b71253f326543f344018d46a3cdcf5c"
-  }
-  
+
